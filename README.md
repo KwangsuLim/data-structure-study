@@ -8,3 +8,5 @@
 
 ## 목차
 - [Week01](./Week01)
+- [Week02](./Week02)
+- [Week03](./Week03)
